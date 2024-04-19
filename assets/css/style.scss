@@ -1,0 +1,60 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+    color: #fff;
+    text-align: center;
+    background-color: #8e3ba5;
+    background-image: linear-gradient(320deg, #2cd4c3, #8e3ba5);
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #606c71;
+}
+
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    background-color: #0a1616;
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: normal;
+    color: #b173c8;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #ffffff;
+}
+
+.main-content code {
+    padding: 2px 4px;
+    font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    font-size: 0.9rem;
+    color: #8abfd7;
+    background-color: #282828;
+    border-radius: 0.3rem;
+}
+
+a {
+    color: #71dccc;
+}
+
+.project-name {
+    color: #0a1616;
+}

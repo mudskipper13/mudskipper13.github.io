@@ -18,8 +18,8 @@ This is a page consisting of my open source works, such as my (unfinished) ROM h
     - Dark-mode Shop Menu (+ Scrolling BG)
     - RSE-style custom Kanto NPC sprites
 - Personal projects
-  - Pokémon FireFlower / SuperLeaf (In-development)
-  - Pokémon Reddish / Greeny (On hiatus)
+  - Pokémon FireFlower & SuperLeaf (In-development)
+  - Pokémon Reddish & Greeny (On hiatus)
 
 # Feature Branches
 
@@ -57,5 +57,24 @@ Link: https://github.com/mudskipper13/pokeemerald/tree/outfits-rhh
 
 Link: https://github.com/mudskipper13/pokeemerald/tree/feature/new-shop-ui-rhh
 
+# Others
 
+## Assets
 
+### Dark-mode Shop Menu (+ Scrolling BG)
+
+Link: 
+
+### RSE-style custom Kanto NPC sprites
+
+Link: 
+
+# Personal Projects
+
+## Pokémon FireFlower & SuperLeaf (In-development)
+
+lorem
+
+## Pokémon Reddish & Greeny (On hiatus)
+
+lorem
